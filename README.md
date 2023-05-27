@@ -1,5 +1,12 @@
 # student-crud
 
+## Technology used 
+- programming languages : Java
+- Framework : Spring Boot
+- API Testing - Postman
+- Database : MySql
+
+
 ## Create Student
 - Endpoint: POST /api/students/create
 - Creates a new student record.
